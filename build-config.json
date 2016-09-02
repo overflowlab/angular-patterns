@@ -1,0 +1,12 @@
+{
+    "scripts":[
+        "bower_components/angular/angular.js",
+        "bower_components/chroma-js/chroma.js",
+        "bower_components/moment/moment.js",
+        "bower_components/angular-moment/angular-moment.js",
+        "bower_components/moment/locale/es.js",
+        "bower_components/d3/d3.js",
+        "ng-patterns.js",
+        "example.js"
+    ]
+}
